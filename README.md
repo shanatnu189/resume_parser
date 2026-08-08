@@ -15,8 +15,3 @@ An intelligent resume parsing and job matching system powered by Groq's LLM API.
 
 - Python 3.8+
 - Groq API Key
-
-## 🛠️ Installation
-
-### 1. Clone the repository
-```bash
